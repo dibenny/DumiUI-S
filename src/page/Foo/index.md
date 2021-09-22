@@ -10,7 +10,7 @@ nav:
 
 ```tsx
 import React from 'react';
-import { Foo } from 'dumi-template';
+import { Foo } from 'Song';
 
 const First = () => {
   return <div>Hello World!</div>;

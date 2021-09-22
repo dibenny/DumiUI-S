@@ -4,18 +4,18 @@ nav:
   path: /components
 ---
 
-## First
+## Text
 
 示例:
 
 ```tsx
 import React from 'react';
-import { Foo } from 'dumi-template';
+import { Text } from 'Song';
 
-const First = () => {
+const TextFun = () => {
   return <div>Hello World!</div>;
 };
-export default First;
+export default TextFun;
 ```
 
 <!-- More skills for writing demo: https://d.umijs.org/guide/demo-principle -->
