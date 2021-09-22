@@ -2,16 +2,6 @@
 
 为组件开发场景而生的文档模板
 
-[English](./README.md) | 简体中文
-
-## 🚀 如何使用？
-
-![](https://gw.alipayobjects.com/zos/bmw-prod/91791904-cdde-4408-959d-72fd0c9049b1/kj80x6lv_w1918_h352.png)
-
-## ✨ 在线预览
-
-https://umijs.github.io/dumi-template/
-
 ## 📒 目录介绍
 
 ```
@@ -42,10 +32,3 @@ https://umijs.github.io/dumi-template/
 | `npm run docs:build`    | 文档打包       | -                                                                    |
 | `npm run docs:deploy`   | 文档发布       | 这里默认是使用了 GitHub Pages                                        |
 | `npm run deploy`        | 文档打包发布   | -                                                                    |
-
-## 交流群
-
-<div>
-  <img data-type="dingtalk" src="https://gw.alipayobjects.com/zos/bmw-prod/ec249703-be12-416c-8f33-297e47d9439c/kjy5ls84_w1004_h1346.png" width="300" />
-  <img data-type="wechat" src="https://gw.alipayobjects.com/zos/bmw-prod/c18bc2a5-719a-48ca-b225-c79ef88bfb43/k7m10ymd_w1004_h1346.jpeg" width="300" />
-</div>
