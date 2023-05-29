@@ -2,7 +2,7 @@
 title: dumi-UI
 order: 10
 hero:
-  title: dumi
+  title: Dumi
   desc: 📖文档工具可以帮助您开发库和编写文档.
   actions:
     - text: 开始
